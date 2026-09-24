@@ -1,16 +1,14 @@
-## Hi there 👋
+### hi, i'm rey
 
-<!--
-**ReyDotExe/ReyDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs student at sacramento state. interested in security and infrastructure.
 
-Here are some ideas to get you started:
+**what i'm working on**
+- **reysbot**: modular self-hosted discord bot running on my homelab
+- **homelab**: proxmox on a thinkcentre, self-hosted services and networking
+- **vestra.ink**: modded minecraft server behind a velocity proxy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**tools**
+linux · proxmox · powershell · active directory · git
+
+**elsewhere**
+[vestra.ink](https://vestra.ink)
