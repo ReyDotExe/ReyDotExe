@@ -9,9 +9,10 @@ cs student at sacramento state. interested in security and infrastructure.
 
 **tools**
 
-linux · proxmox · powershell · active directory · git
+linux · proxmox · networking · virtualization · git
 
 **elsewhere**
 
 [reydotexe.me](https://reydotexe.me)
+
 [vestra.ink](https://vestra.ink)
