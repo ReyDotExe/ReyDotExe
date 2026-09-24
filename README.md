@@ -13,4 +13,4 @@ linux · proxmox · powershell · active directory · git
 
 **elsewhere**
 
-[vestra.ink](https://vestra.ink)
+[reydotexe.me](https://reydotexe.me) · [vestra.ink](https://vestra.ink)
